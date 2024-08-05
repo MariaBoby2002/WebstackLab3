@@ -62,6 +62,30 @@ nav ul {
 .nav-link:hover {
     color: rgb(145, 160, 185); 
 }
+.about-container {
+    padding: 2em 0;
+}
+
+.about-content {
+    background-color: rgb(145, 160, 185); 
+    padding: 2em;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-left: auto;
+    max-width: 500px; 
+    text-align: center; 
+}
+
+.about-content h1 {
+    margin-bottom: 1em;
+    font-size: 2rem;
+    color: #333;
+}
+
+.about-content p {
+    font-size: 1rem;
+    color: #666;
+}
 
 
 .footer {
